@@ -1,0 +1,4 @@
+CHANGED,C:\Users\admin\AndroidStudioProjects\COM262_PROJECTS\ch09_ex4_NewsReader\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\admin\AndroidStudioProjects\COM262_PROJECTS\ch09_ex4_NewsReader\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\ItemsFragment$override.class
+CHANGED,C:\Users\admin\AndroidStudioProjects\COM262_PROJECTS\ch09_ex4_NewsReader\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\ItemsFragment$DownloadFeed$override.class
+CHANGED,C:\Users\admin\AndroidStudioProjects\COM262_PROJECTS\ch09_ex4_NewsReader\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\ItemsFragment$ReadFeed$override.class
